@@ -403,7 +403,7 @@ cursor: pointer;
     display: none;
   }
   .body{
-    min-width: 900px;
+    max-width: 900px;
     
   }
 .logo{
@@ -504,8 +504,8 @@ width: 100%;
 
 }
 
-.rapp{
-margin: 50px 25%;
+.rapp app{
+margin: 50px auto;
 }
 .rib{
   display: none;
