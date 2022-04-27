@@ -436,6 +436,8 @@ cursor: pointer;
   height: 400px;
   width: 340px;
   padding-right:40px ;
+  position: relative;
+    left: -30px
 }
 .input{
   display: none;
