@@ -223,7 +223,7 @@ margin-top: 150px;
   width: 100%;
 }
 .ribinner{
-  width: 20%;
+  max-width: 998px;
   font-size: 2.5em;
   color: white;
   padding: 70px 0px;
